@@ -19,7 +19,7 @@
   box-sizing: border-box;
 }
 
-header,h1,nv,list-comment {
+header,h1,nav,list-comment {
   font-family: 'kaushan',cursive,sans-serif;
 }
 header {
